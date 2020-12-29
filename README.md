@@ -1,7 +1,7 @@
 # GMT351-Final-Project
 ## TEAM MEMBERS
   * Yusuf Eren ERDİL  21733059
-  * Arda ÖZDEMİR  21733188
+  * Arda ÖZDEMİR 21733188
   * Onur Özgür YAMAN  21632858
   
 ## DESCRİPTİON
